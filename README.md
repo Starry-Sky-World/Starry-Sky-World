@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Starry-Sky-World&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Starry-Sky-World&data=followers,repositories,stars,commits)
